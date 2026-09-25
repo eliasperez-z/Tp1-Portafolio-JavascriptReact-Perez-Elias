@@ -1,4 +1,4 @@
-# Portfolio Personal - TP1 React
+# Portafolio Personal - TP1 React
 
 ## Datos del Estudiante
 - **Nombre y Apellido:** Elias Perez
@@ -15,4 +15,15 @@ Este es un portafolio personal de una sola pagina desarrollado como Trabajo Prac
 ## Instrucciones de Instalación
 Para preparar este proyecto en un entorno local, abre una terminal en la carpeta del proyecto y ejecuta el siguiente comando para instalar las dependencias:
 ```bash
+
 npm install
+```
+## Ejecución del Proyecto
+Para levantar el servidor y ver la página funcionando, ejecuta:
+```bash
+npm run dev
+```
+
+## Enlace al Repositorio
+Puedes ver el código fuente en mi repositorio de GitHub:
+https://github.com/eliasperez-z/Tp1-Portafolio-JavascriptReact-Perez-Elias
